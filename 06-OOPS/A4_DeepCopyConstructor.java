@@ -1,5 +1,3 @@
-package OOPS;
-
 public class A4_DeepCopyConstructor {
     public static void main(String[] args) {
 
